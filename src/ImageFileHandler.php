@@ -1,7 +1,7 @@
 <?php
-declare(strict_types=1);
 
 namespace WarriorPHP\Captcha;
+
 /**
  * Handles actions related to captcha image files including saving and garbage collection
  *
